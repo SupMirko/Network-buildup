@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>56414832</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.80A074F7-B4F6-4647-B0C1-3B9EE13DE033</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>80A074F7-B4F6-4647-B0C1-3B9EE13DE033</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.31.93</string>
+			<key>ProxyServerPort</key>
+			<integer>7890</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>Xiaomi_Mirko</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Mirokodaili</string>
+	<key>PayloadIdentifier</key>
+	<string>SarahdeMacBook.8DF1B96E-814B-4C3F-8730-891F396E64EA</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B410A980-0993-431B-B001-7DD19888EDB5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
